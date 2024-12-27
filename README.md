@@ -2,13 +2,13 @@
 
 Welcome to the **Matrix Operations Tool** repository! 🌟 This Python application, powered by the **NumPy** library, provides a user-friendly interface to perform a variety of matrix operations. Whether you're adding, subtracting, multiplying, or analyzing matrices, this tool is your go-to solution for all matrix-related computations. 
 
----
+
 
 ## Acknowledgement 🎓
 
 This project was completed as part of my internship with **CodexIntern**. I deeply appreciate their support and the opportunity to apply my Python skills in a practical and meaningful way. 🙏
 
----
+
 
 ## Features 🔄
 
@@ -23,7 +23,7 @@ This project was completed as part of my internship with **CodexIntern**. I deep
   - Receive results in a clean and structured format.
 - **Efficient Computation**: Built on the robust **NumPy** library for lightning-fast matrix calculations.
 
----
+
 
 ## Tech Stack 🧠
 
@@ -31,7 +31,7 @@ This project was completed as part of my internship with **CodexIntern**. I deep
 - **Library Used**: [NumPy](https://numpy.org/)
 - **Interface**: Interactive command-line inputs 🔍
 
----
+
 
 ## How It Works 🚀
 
@@ -40,7 +40,7 @@ This project was completed as part of my internship with **CodexIntern**. I deep
 3. **Display Results**: The tool computes the result and displays it in a structured format.
 4. **Iterate**: Perform multiple operations without restarting the tool.
 
----
+
 
 ## Getting Started 🎮
 
@@ -71,7 +71,7 @@ This project was completed as part of my internship with **CodexIntern**. I deep
    python Matrix Operation Tool.py 
    ```
 
----
+
 
 ## Code Structure 🌐
 
